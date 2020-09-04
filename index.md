@@ -4,7 +4,12 @@ criticisms, suggestions, a new idea. Do you have a good one to say?
 Join to [theBagheadmanTeam](https://discord.gg/nrVs2MG) and chat about the pivot in question
 
 ### Making for the momment
+- Mod Sound+v1
+- background song
+
 ### Most relevant suggeations
+1. Stick Figure Builder Unlimited Segments
+2. Background color
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
