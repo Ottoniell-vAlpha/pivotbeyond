@@ -1,4 +1,4 @@
-
+[Download](download.md) &nbsp;&nbsp; | &nbsp;&nbsp; [About](about.md)
 
 criticisms, suggestions, a new idea. Do you have a good one to say?
 Join to [theBagheadmanTeam](https://discord.gg/nrVs2MG) and chat about the pivot in question
@@ -11,25 +11,7 @@ Join to [theBagheadmanTeam](https://discord.gg/nrVs2MG) and chat about the pivot
 1. Stick Figure Builder Unlimited Segments
 2. Background color
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text 
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
