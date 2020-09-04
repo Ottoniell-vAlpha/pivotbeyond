@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Pivot Beyond
 
-You can use the [editor on GitHub](https://github.com/Ottoniell-vAlpha/pivotbeyond/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+criticisms, suggestions, a new idea. Do you have a good one to say?
+Join [theBagheadmanTeam](https://discord.gg/nrVs2MG) and chat about the pivot in question
 
 ### Markdown
 
@@ -21,7 +20,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
